@@ -1,1 +1,2 @@
 # Texas-Hold-em-Simulation
+This project simulates poker hand outcomes using Monte Carlo simulations to estimate the probabilities of winning, tying, and losing for all 1326 possible starting hands in Texas Hold'em. This uses the treys library for poker hand evaluation and the tqdm library for progress tracking. Results are exported as CSV files that provides detailed information about the performance of each hand versus all other starting hands.
